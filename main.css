@@ -1,0 +1,28 @@
+.newtext {
+    text-align: center;
+}
+
+
+.flexthis {
+    display:flex;
+    flex-direction: row; 
+}
+
+
+#inputfield1 {
+    /* min-width: 30px; */
+    min-height: 20px;
+    border: 2px solid green;
+    flex-basis: 50%;
+    
+    
+}
+
+#inputfield2 {
+    min-width: 30px;
+    min-height: 20px;
+    border: 2px solid red;
+    flex-basis: 50%;
+}
+
+
